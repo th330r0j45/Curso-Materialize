@@ -62,6 +62,13 @@ footer.page-footer {
     height: 80px;
     background: grey;
     bottom: 0;
+    color: white;
+    text-align: center;
+}
+
+.page-footer a {
+    text-decoration: none;
+    align-items: center;
 }
 
 
@@ -74,4 +81,26 @@ footer.page-footer {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+
+/* Registro*/
+
+.registro-titulo {
+    margin-top: 80px;
+}
+
+.registro-header {
+    height: 400px;
+}
+
+
+/**/
+
+.nosotros-header {
+    height: 300px;
+}
+
+.nosotros-titulo {
+    margin-bottom: 100px;
 }
